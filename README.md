@@ -1,3 +1,4 @@
+![Executive Dashboard](images/01-executive-overview.png)
 
 🚛 Logistics Operations Analytics Dashboard
 
