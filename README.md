@@ -1,5 +1,3 @@
-![Executive Dashboard](images/01-executive-overview.png)
-
 🚛 Logistics Operations Analytics Dashboard
 
 Power BI | DAX | Power Query | Microsoft Excel
