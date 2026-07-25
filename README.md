@@ -1,3 +1,8 @@
+# Qozeem Adekunle | Data Analytics Portfolio
+
+Power BI • Microsoft Excel • Business Intelligence • Data Visualization
+
+
 🚛 Logistics Operations Analytics Dashboard
 
 Power BI | DAX | Power Query | Microsoft Excel
